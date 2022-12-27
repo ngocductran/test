@@ -1,7 +1,7 @@
 function App() {
   return (
     <p>
-      Hello Word Wooo
+      Hello Word
     </p>
   );
 }
